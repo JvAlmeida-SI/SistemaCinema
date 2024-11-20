@@ -1,0 +1,22 @@
+[
+  {
+    "login": "maria",
+    "senha": "39648591",
+    "nome": "Maria",
+    "sobrenome": "Marlene Pereira",
+    "cpf": "53179381639",
+    "email": "maria@email.com",
+    "telefone": "3964-8591",
+    "endereco": "Quadra A4, 643, Igaraçu, Parnaíba, PI"
+  },
+  {
+    "login": "valentina",
+    "senha": "27042089",
+    "nome": "Valentina",
+    "sobrenome": "Priscila Farias",
+    "cpf": "50481934235",
+    "email": "valentina@email.com",
+    "telefone": "2704-2089",
+    "endereco": "Rua B5, 995, Vila Americano do Brasil, Goiânia, GO"
+  }
+]

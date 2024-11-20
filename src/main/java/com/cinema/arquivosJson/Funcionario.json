@@ -1,0 +1,32 @@
+[
+  {
+    "login": "jotav",
+    "senha": "33224455",
+    "nome": "João",
+    "sobrenome": "Victor",
+    "cpf": "59627055050",
+    "email": "jotav@email.com",
+    "telefone": "3322-4455",
+    "endereco": "rua 2, numero 22, bairro 222, cidade 2222"
+  },
+  {
+    "login": "ana",
+    "senha": "11223344",
+    "nome": "Ana",
+    "sobrenome": "de Almeida",
+    "cpf": "96560957071",
+    "email": "ana@email.com",
+    "telefone": "11223344",
+    "endereco": "rua 1, numero 11, bairro 111, cidade 1111"
+  },
+  {
+    "login": "fernanda",
+    "senha": "91391852",
+    "nome": "Fernanda",
+    "sobrenome": "Antônia Rodrigues",
+    "cpf": "53845303670",
+    "email": "91391852",
+    "telefone": "fernandaAR@email.com",
+    "endereco": "Alameda A, 247, Coqueiro, Ananindeua, PA"
+  }
+]

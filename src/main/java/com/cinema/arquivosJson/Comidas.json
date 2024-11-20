@@ -1,0 +1,30 @@
+[
+  {
+    "codComida": 0,
+    "nome": "Pipoca",
+    "preco": 12.0,
+    "quantidade": 5,
+    "dataValidade": "01/06/2024 00:00:00"
+  },
+  {
+    "codComida": 1,
+    "nome": "Refrigerante",
+    "preco": 8.75,
+    "quantidade": 15,
+    "dataValidade": "16/11/2024 00:00:00"
+  },
+  {
+    "codComida": 2,
+    "nome": "Chocolate",
+    "preco": 7.55,
+    "quantidade": 20,
+    "dataValidade": "15/12/2024 00:00:00"
+  },
+  {
+    "codComida": 3,
+    "nome": "Suco",
+    "preco": 10.5,
+    "quantidade": 12,
+    "dataValidade": "09/07/2024 00:00:00"
+  }
+]

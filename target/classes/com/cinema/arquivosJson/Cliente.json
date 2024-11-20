@@ -1,0 +1,46 @@
+[
+  {
+    "numClientes2": 0,
+    "login": "rafael",
+    "senha": "36699537",
+    "nome": "Rafael",
+    "sobrenome": "Elias Barbosa",
+    "cpf": "32130674232",
+    "email": "rafael@email.com",
+    "telefone": "3669-9537",
+    "endereco": "Rua Uberlândia, 951, Eletronorte, Porto Velho, RO"
+  },
+  {
+    "numClientes2": 1,
+    "login": "malu",
+    "senha": "28752776",
+    "nome": "Malu",
+    "sobrenome": "Nina Julia Alves",
+    "cpf": "28054115520",
+    "email": "malu@email.com",
+    "telefone": "2875-2776",
+    "endereco": "Avenia Candeias, 838, Área Industrial, Ariquemes, RO"
+  },
+  {
+    "numClientes2": 2,
+    "login": "35360578378",
+    "senha": "99444151",
+    "nome": "Luiza",
+    "sobrenome": "Adrea Pietra Aparício",
+    "cpf": "35360578378",
+    "email": "luiza@email.com",
+    "telefone": "99444151",
+    "endereco": "Escadaria Arnaldina Gomes Vieira"
+  },
+  {
+    "numClientes2": 3,
+    "login": "13324407036",
+    "senha": "25561593",
+    "nome": "Heitor",
+    "sobrenome": "João Costa",
+    "cpf": "13324407036",
+    "email": "heitor@email.com",
+    "telefone": "25561593",
+    "endereco": "Rua Alecir de Lannes, 549, Glória, Várzea Grande, MT"
+  }
+]

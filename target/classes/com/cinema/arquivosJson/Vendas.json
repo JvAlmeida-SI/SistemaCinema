@@ -1,0 +1,265 @@
+[
+  {
+    "codVenda": 0,
+    "ingresso": [
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 2,
+          "nome": "Titanic",
+          "faixaEtaria": 14,
+          "genero": "Romance, Drama",
+          "duracao": 196,
+          "dataEstreia": "07-07-2024 00:00:00",
+          "dataSaidaCartaz": "30-10-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 21,
+          "numSala": 4
+        },
+        "valor": 25.0
+      },
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 2,
+          "nome": "Titanic",
+          "faixaEtaria": 14,
+          "genero": "Romance, Drama",
+          "duracao": 196,
+          "dataEstreia": "07-07-2024 00:00:00",
+          "dataSaidaCartaz": "30-10-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 22,
+          "numSala": 4
+        },
+        "valor": 25.0
+      }
+    ],
+    "cliente": {
+      "numClientes2": 0,
+      "login": "malu",
+      "senha": "28752776",
+      "nome": "Malu",
+      "sobrenome": "Nina Julia Alves",
+      "cpf": "28054115520",
+      "email": "malu@email.com",
+      "telefone": "2875-2776",
+      "endereco": "Avenia Candeias, 838, Área Industrial, Ariquemes, RO"
+    },
+    "comidas": [
+      {
+        "codComida": 1,
+        "nome": "Refrigerante",
+        "preco": 8.75,
+        "quantidade": 15,
+        "dataValidade": "16-11-2024 00:00:00"
+      },
+      {
+        "codComida": 2,
+        "nome": "Chocolate",
+        "preco": 7.55,
+        "quantidade": 20,
+        "dataValidade": "15-12-2024 00:00:00"
+      },
+      {
+        "codComida": 3,
+        "nome": "Suco",
+        "preco": 10.5,
+        "quantidade": 12,
+        "dataValidade": "09-07-2024 00:00:00"
+      }
+    ],
+    "valorTotal": 76.8,
+    "dataVenda": "08-06-2024 00:00:00",
+    "numBalcao": 1
+  },
+  {
+    "codVenda": 1,
+    "ingresso": [
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 0,
+          "nome": "Homem de Ferro 2",
+          "faixaEtaria": 12,
+          "genero": "Ficção Científica, Super-heróis",
+          "duracao": 125,
+          "dataEstreia": "15-06-2024 00:00:00",
+          "dataSaidaCartaz": "28-08-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 15,
+          "numSala": 3
+        },
+        "valor": 25.0
+      }
+    ],
+    "cliente": {
+      "numClientes2": 0,
+      "login": "rafael",
+      "senha": "36699537",
+      "nome": "Rafael",
+      "sobrenome": "Elias Barbosa",
+      "cpf": "32130674232",
+      "email": "rafael@email.com",
+      "telefone": "3669-9537",
+      "endereco": "Rua Uberlândia, 951, Eletronorte, Porto Velho, RO"
+    },
+    "comidas": [
+      {
+        "codComida": 3,
+        "nome": "Suco",
+        "preco": 10.5,
+        "quantidade": 12,
+        "dataValidade": "09-07-2024 00:00:00"
+      }
+    ],
+    "valorTotal": 35.5,
+    "dataVenda": "08-06-2024 00:00:00",
+    "numBalcao": 3
+  },
+  {
+    "codVenda": 2,
+    "ingresso": [
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 1,
+          "nome": "Guardiões da Galáxia",
+          "faixaEtaria": 12,
+          "genero": "Ficção Científica, Comédia",
+          "duracao": 122,
+          "dataEstreia": "20-06-2024 00:00:00",
+          "dataSaidaCartaz": "30-09-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 32,
+          "numSala": 2
+        },
+        "valor": 25.0
+      },
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 1,
+          "nome": "Guardiões da Galáxia",
+          "faixaEtaria": 12,
+          "genero": "Ficção Científica, Comédia",
+          "duracao": 122,
+          "dataEstreia": "20-06-2024 00:00:00",
+          "dataSaidaCartaz": "30-09-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 33,
+          "numSala": 2
+        },
+        "valor": 25.0
+      }
+    ],
+    "cliente": {
+      "numClientes2": 0,
+      "login": "rafael",
+      "senha": "36699537",
+      "nome": "Rafael",
+      "sobrenome": "Elias Barbosa",
+      "cpf": "32130674232",
+      "email": "rafael@email.com",
+      "telefone": "3669-9537",
+      "endereco": "Rua Uberlândia, 951, Eletronorte, Porto Velho, RO"
+    },
+    "comidas": [
+      {
+        "codComida": 1,
+        "nome": "Refrigerante",
+        "preco": 8.75,
+        "quantidade": 15,
+        "dataValidade": "16-11-2024 00:00:00"
+      },
+      {
+        "codComida": 2,
+        "nome": "Chocolate",
+        "preco": 7.55,
+        "quantidade": 20,
+        "dataValidade": "15-12-2024 00:00:00"
+      },
+      {
+        "codComida": 1,
+        "nome": "Refrigerante",
+        "preco": 8.75,
+        "quantidade": 15,
+        "dataValidade": "16-11-2024 00:00:00"
+      }
+    ],
+    "valorTotal": 75.05,
+    "dataVenda": "08-06-2024 00:00:00",
+    "numBalcao": 1
+  },
+  {
+    "codVenda": 3,
+    "ingresso": [
+      {
+        "codIngresso": 0,
+        "filme": {
+          "codFilme": 0,
+          "nome": "Homem de Ferro 2",
+          "faixaEtaria": 12,
+          "genero": "Ficção Científica, Super-heróis",
+          "duracao": 125,
+          "dataEstreia": "15-06-2024 00:00:00",
+          "dataSaidaCartaz": "28-08-2024 00:00:00"
+        },
+        "sala": {
+          "poltrona": 36,
+          "numSala": 1
+        },
+        "valor": 25.0
+      }
+    ],
+    "cliente": {
+      "numClientes2": 1,
+      "login": "13324407036",
+      "senha": "25561593",
+      "nome": "Heitor",
+      "sobrenome": "João Costa",
+      "cpf": "13324407036",
+      "email": "heitor@email.com",
+      "telefone": "25561593",
+      "endereco": "Rua Alecir de Lannes, 549, Glória, Várzea Grande, MT"
+    },
+    "comidas": [
+      {
+        "codComida": 0,
+        "nome": "Pipoca",
+        "preco": 12.0,
+        "quantidade": 5,
+        "dataValidade": "01-06-2024 00:00:00"
+      },
+      {
+        "codComida": 1,
+        "nome": "Refrigerante",
+        "preco": 8.75,
+        "quantidade": 15,
+        "dataValidade": "16-11-2024 00:00:00"
+      },
+      {
+        "codComida": 2,
+        "nome": "Chocolate",
+        "preco": 7.55,
+        "quantidade": 20,
+        "dataValidade": "15-12-2024 00:00:00"
+      },
+      {
+        "codComida": 2,
+        "nome": "Chocolate",
+        "preco": 7.55,
+        "quantidade": 20,
+        "dataValidade": "15-12-2024 00:00:00"
+      }
+    ],
+    "valorTotal": 60.849999999999994,
+    "dataVenda": "09-06-2024 00:00:00",
+    "numBalcao": 2
+  }
+]
